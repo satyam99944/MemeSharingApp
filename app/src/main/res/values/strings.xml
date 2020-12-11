@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeamShairing</string>
+    <string name="next_btn">next</string>
+    <string name="share_btn">Share</string>
+    <string name="next">next</string>
+    <string name="share">share</string>
+</resources>
